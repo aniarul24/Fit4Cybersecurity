@@ -83,19 +83,19 @@
   {
     "section": "Awareness",
     "service_category": "Awareness",
-    "qtype": "MT",
+    "qtype": "ST",
     "qindex": 4,
     "label": "Has PQC or quantum risk been included in your organization's security awareness training or risk management?",
     "answers": [
       {
         "aindex": 1,
-        "uniqueAnswer": false,
+        "uniqueAnswer": true,
         "atype": "P",
         "label": "Yes"
       },
       {
         "aindex": 2,
-        "uniqueAnswer": false,
+        "uniqueAnswer": true,
         "atype": "P",
         "label": "No"
       },
@@ -161,7 +161,7 @@
   {
     "section": "Strategy",
     "service_category": "Strategy",
-    "qtype": "MT",
+    "qtype": "S",
     "qindex": 6,
     "label": "Has your organization developed a strategy or roadmap for transitioning to quantum-resistant cryptographic systems?",
     "answers": [
