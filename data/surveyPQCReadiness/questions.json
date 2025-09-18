@@ -21,7 +21,7 @@
         "atype": "P",
         "label": "Heard of it, but no internal discussions",
         "questions_map": [
-        { "label": "Are your technical teams aware of the implications of quantum computing on current cryptographic systems?", "branch": 1, "level": 1, "order": 1 }
+        { "label": "Are your technical teams aware of the implications of quantum computing on current cryptographic systems?", "branch": 2, "level": 1, "order": 1 }
       ]
       },
       {
@@ -30,7 +30,7 @@
         "atype": "P",
         "label": "Moderate awareness with occasional internal discussions.",
         "questions_map": [
-        { "label": "Are your technical teams aware of the implications of quantum computing on current cryptographic systems?", "branch": 1, "level": 1, "order": 1 }
+        { "label": "Are your technical teams aware of the implications of quantum computing on current cryptographic systems?", "branch": 3, "level": 1, "order": 1 }
       ]
       },
       {
@@ -39,7 +39,7 @@
         "atype": "P",
         "label": "Clear understanding and defined roadmap.",
         "questions_map": [
-        { "label": "Are your technical teams aware of the implications of quantum computing on current cryptographic systems?", "branch": 1, "level": 1, "order": 1 }
+        { "label": "Are your technical teams aware of the implications of quantum computing on current cryptographic systems?", "branch": 4, "level": 1, "order": 1 }
       ]
       }
     ]
